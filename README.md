@@ -15,7 +15,7 @@
 
 ## Live Project
 
-- [PROFIT OR LOSS](https://cashregisterv2.netlify.app/)
+- [PROFIT OR LOSS](https://profi-tloss.netlify.app/)
 
 ## Screenshots
 
